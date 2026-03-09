@@ -22,13 +22,13 @@ flex-direction: column;
 
 .card{
 
-  background: hsl(0, 0%, 20%);
+  background: hsl(0, 0%, 12%);
   border-radius: 16px;
   padding: 40px;
   max-width: 375px;
   width: 100%;
   text-align: center;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
 
 .avatar{
